@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Cralos9
-- 🌱 I’m currently learning C 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome!"/>
+</p>
 
 
 <p align="center">
