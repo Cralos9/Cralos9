@@ -1,5 +1,8 @@
 
 ## Hello everyone <img height="40" src="https://media.tenor.com/VRr39cVS3AkAAAAd/cat-is-vibin.gif"/>
+<div align="center">
+	Hey there, I'm Carlos and currently i'm studying software development at 42Porto
+</div>
 <!-- <div align="center">
 <h3> My skills </h3>
 </div>
