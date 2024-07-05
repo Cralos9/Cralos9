@@ -14,8 +14,8 @@
  -->
 <div align="center">
 	<a href="https://github.com/Cralos9">
- 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cralos9&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cralos9&layout=compact&langs_count=7&theme=nord"/>
+ 	<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cralos9&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cralos9&layout=compact&langs_count=7&theme=catppuccin_mocha"/>
 </div>
 	
 <p align="center">
