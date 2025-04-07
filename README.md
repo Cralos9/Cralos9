@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos <img height="40" src="https://media.tenor.com/VRr39cVS3AkAAAAd/cat-is-vibin.gif"/>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding and contributing to open-source projects. Here you'll find some of my projects and contributions.
+I'm a passionate developer who loves coding and contributing to open-source projects. Here you'll find some of my projects and contributions.
 
 ## 🔧 Technologies & Tools
 
